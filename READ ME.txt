@@ -1,1 +1,0 @@
-In the main, put your file name. And then, Using segmenter function, get the result! 
